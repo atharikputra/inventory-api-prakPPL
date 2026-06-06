@@ -2,8 +2,8 @@
 
 > RESTful API Manajemen Inventori Barang — dibangun dengan Node.js + Express, dikontainerisasi dengan Docker, dan diotomatisasi via GitHub Actions.
 
-![CI Status](https://github.com/YOUR_USERNAME/inventory-api/actions/workflows/ci.yml/badge.svg)
-![CS Status](https://github.com/YOUR_USERNAME/inventory-api/actions/workflows/cs.yml/badge.svg)
+![CI Status](https://github.com/atharikputra/inventory-api/actions/workflows/ci.yml/badge.svg)
+![CS Status](https://github.com/atharikputra/inventory-api/actions/workflows/cs.yml/badge.svg)
 
 ---
 
