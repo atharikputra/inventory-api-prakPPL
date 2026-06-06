@@ -283,6 +283,3 @@ inventory-api/
 
 ---
 
-## Lisensi
-
-MIT © Athar
